@@ -1,4 +1,4 @@
 # TypoSnap-Releases
 Respository containing just the TypoSnap application releases
 
-v1.0.0-alpha.9
+v1.0.0-alpha.10
